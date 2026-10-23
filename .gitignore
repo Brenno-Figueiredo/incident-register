@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+
+# O REGISTRO DE INCIDENTES É CONFIDENCIAL: descreve falhas reais, sistemas, volumes e decisões. NUNCA vai ao GitHub.
+*.db
+*.db-journal
+*.db-wal
+incidentes*
+registro*.csv
+painel*.html
+relatorio*
+feed*.jsonl
+evidencias-auto.json

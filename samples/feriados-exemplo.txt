@@ -1,0 +1,5 @@
+# Feriados EXTRAS para o cálculo dos dias úteis (um por linha: data e nome opcional).
+# Os feriados nacionais já vêm embutidos; aqui entram os estaduais, municipais e pontos facultativos
+# que a sua organização NÃO trabalha. Formatos aceitos: AAAA-MM-DD ou dd/mm/aaaa.
+2026-01-25 Aniversário da cidade (exemplo)
+09/07/2026 Data magna do estado (exemplo)
